@@ -23,7 +23,8 @@ Each rectangle is a vector and arrows represent functions, the green vectors hol
 - [csv](https://docs.python.org/3/library/csv.html)
 
 ### Results:
-Type of text; one of 
+Type of text; one of the following
+
 `business`, `entertainment`, `politics`, `sport`, `tech`
 
 ### Accuracy:
